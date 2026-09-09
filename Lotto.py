@@ -2,6 +2,7 @@
 # 자료 구조 set(중복 허용 안됨), 버튼을 누르면 5세트 한번에 생성 
 # datetime으로 생성 시간도 함께 보여준다
 # 로또 V1
+# 로또 V2
 import streamlit as st
 import random
 from datetime import datetime
